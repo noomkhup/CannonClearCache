@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Canon Auto Clear</string>
+    <string name="tile_label">Clear Canon Cache</string>
+    <string name="ready">พร้อมใช้งาน</string>
+    <string name="btn_clear_auto">ล้างแคช Canon อัตโนมัติ</string>
+    <string name="btn_open_canon_info">เปิดหน้า App Info ของ Canon</string>
+    <string name="btn_open_acc">เปิดการช่วยสำหรับการเข้าถึง (Accessibility)</string>
+    <string name="enable_acc_first">โปรดเปิดการช่วยสำหรับการเข้าถึงก่อน</string>
+    <string name="running_auto_clear">กำลังดำเนินการอัตโนมัติ…</string>
+    <string name="acc_desc">ช่วยกดล้างแคชเฉพาะแอป Canon Print Service โดยอัตโนมัติ</string>
+    <string name="hint">เพิ่ม Quick Settings Tile ชื่อ “Clear Canon Cache” เพื่อกดจากแถบด้านบนได้</string>
+</resources>
